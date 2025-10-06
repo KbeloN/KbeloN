@@ -2,7 +2,7 @@
 
 Meu nome é **Rodrigo L.**, mas meu apelido na internet é **KbeliN**.
 
-🎓 Estou cursando Análise e desenvolvimento na Unicesumar. 
+🎓 Estou cursando Análise e desenvolvimento de Sistemas na **Unicesumar**. 
 
 ❤️ Gosto de Jogar, codar, assistir filmes, estar entre amigos e fazer a diferênça.
 
