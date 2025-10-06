@@ -17,6 +17,8 @@ Meu nome é **Rodrigo L.**, mas meu apelido na internet é **KbeliN**.
 Meu primeiro projeto seguindo os paradigmas de **Programação Orientada a <br>
 Objetos (POO)** em **Python.**
 
+---
+
 #### Dashboard de vendas 📊
 ##### [Repositório](https://github.com/KbeloN/Dashboard-Vendas-Hashtag)
 *Um Dashboard interativo*, que contém uma análise de vendas das franquias de uma <br> 
