@@ -3,12 +3,9 @@
 Meu nome é **Rodrigo L.**, mas meu apelido na internet é **KbeliN**.
 
 🎓 Estou cursando Análise e desenvolvimento de Sistemas na **Unicesumar**. 
-
 ❤️ Gosto de Jogar, codar, assistir filmes, estar entre amigos e fazer a diferênça.
-
 🙋‍♂️ Sou um **desenvolvedor back-end**, com foco nas linguagens **Python** (O que estou estudando atualmente) e **Java** (Possuo um conhecimento intemediário).
-
-📅 Num futuro próximo, me aprofundarei em **HTML**, **CSS**, **JS** e **React** e virar um **desenvolvedor full-stack**.
+📅 Atualmente, estou me aprofundando em **PYTHON** **HTML**, **CSS**, **JS** e pensando em virar um **desenvolvedor full-stack**.
 
 # Principais projetos:
 
